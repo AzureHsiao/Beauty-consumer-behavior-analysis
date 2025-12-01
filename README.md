@@ -1,4 +1,4 @@
-# beauty-consumer-behavior-analysis
+# Beauty-consumer-behavior-analysis
 Analysis of global beauty consumer survey data using Python to uncover behavioral trends, confidence patterns, and demographic insights.
 
 **Project Objective**
